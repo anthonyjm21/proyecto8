@@ -3,5 +3,4 @@
     {{ method_field('PATCH') }}
 
     @include('empleados.formulario')
-
 </form>

@@ -20,7 +20,7 @@
             <th scope="col">Apellidos</th>
             <th scope="col">Correo</th>
             <th scope="col">Foto</th>
-            <th scope="col">Acciones</th>
+            <th scope="col">Acciones T</th>
             </tr>
         </thead>
         <tbody>
